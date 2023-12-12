@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Oi, meu nome é Júnior Siqueira👋 </h1>
+<h1>Oi, meu nome é Júnior Siqueira 👋 </h1>
 
 **Full Stack Developer** e **CTO** na **[RadCloud Corp](https://www.radcloud.com.br/)**
 
@@ -13,7 +13,7 @@
 
 <br>
 
-<h3>Linguages e Ferramentas que utilizo:</h3>
+<h3>Linguagens e Ferramentas que utilizo:</h3>
 <div style="display: inline_block">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />&nbsp;&nbsp;
@@ -31,6 +31,6 @@
 
 <h3>Atualmente estudando:</h3>
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img width="55" height="60" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" />
 </div>
